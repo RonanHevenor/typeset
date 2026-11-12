@@ -13,8 +13,5 @@ You're going to need macOS 14 or later and the Swift toolchain that comes with X
 ```bash
 git clone https://github.com/RonanHevenor/typeset.git
 cd typeset
-./build.sh            # swift build, assemble build/Typeset.app, sign ad hoc, open
+./build.sh
 ```
-
-`./build.sh --no-open` builds without opening; `tools/make_dmg.sh` then packages it as `build/Typeset.dmg`. Every push
-to `main` is built on GitHub Actions.
