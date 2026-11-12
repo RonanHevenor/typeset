@@ -3,16 +3,12 @@
 A Mac app that lays out a tabloid student newspaper. Paste stories in, rank them, and get a paper; then edit the
 pages directly. It exports print-ready PDF, and IDML for anyone who finishes in InDesign.
 
-Typeset was built for *The Polytechnic*, Rensselaer's student newspaper, and its house style is theirs: an
-11.125 × 17.25 in tabloid, Minion Pro body type, Utopia headlines, Raleway bylines and folios. The house style lives
-in code, so the look of the paper changes by editing `HouseStyle.swift`. Your paper's name, website, staff and
-nameplate are settings and need no code changes.
-
-Free software under the GNU GPL, version 3 (see `LICENSE`).
+Typeset was built for *The Polytechnic*, RPI's independent student newspaper. As a result, the app has some very strong opinions. All the settings to change those opinions are in code, so the look of the paper changes by editing `HouseStyle.swift`. The paper's name, website, staff and
+nameplate are settings and require no code changes.
 
 ## Getting started
 
-Needs macOS 14 or later and the Swift toolchain that comes with Xcode or the Command Line Tools.
+You're going to need macOS 14 or later and the Swift toolchain that comes with Xcode or the Command Line Tools.
 
 ```bash
 git clone https://github.com/RonanHevenor/typeset.git
@@ -21,34 +17,7 @@ cd typeset
 ```
 
 `./build.sh --no-open` builds without opening; `tools/make_dmg.sh` then packages it as `build/Typeset.dmg`. Every push
-to `main` is built on GitHub Actions, and the run's page has the DMG to download. The app is signed ad hoc, so on another Mac the first open needs
-right-click › Open.
-
-On first launch Typeset opens **Set Up Typeset**. You can open it again any time from *Typeset › Set Up Typeset…*.
-It has two parts:
-
-1. **Fonts.** The house style is set in thirteen faces that Typeset can't include, because their licenses don't
-   allow it:
-
-   | Family | Faces | Where to get it |
-   |---|---|---|
-   | Minion Pro | Regular, Italic, Medium, Bold, Bold Italic | Adobe (Adobe Fonts with Creative Cloud, or a license) |
-   | Myriad Pro | Regular, Italic | Adobe |
-   | Utopia Std | Semibold Subhead, Bold Italic | Adobe |
-   | Raleway | Regular, Medium, SemiBold, Bold | Free (SIL OFL) from [Google Fonts](https://fonts.google.com/specimen/Raleway); use the static weights |
-
-   Fonts installed on the Mac, or active in Creative Cloud, are found on their own. Otherwise use *Add Font Files…*
-   to copy them into `~/Library/Application Support/Typeset/Fonts`, where only Typeset uses them. Setup shows which
-   faces are found. Until all are, the window's toolbar says how many are missing, and pages are set in system
-   fonts, so they won't match print and the copyfit numbers will be off.
-
-2. **Your paper** (optional). The paper's name, its website (printed in each inside page's folio, and as "Read the
-   rest at …" where a story doesn't finish in print), its nameplate (a PDF or a picture, 729 × 118 pt), and the
-   staff list the article editor's byline menu picks from. Skip any of it and fill it in as you go: the byline
-   menu has *Set Up Staff…*, and any issue's Header and Folio can be edited like any other component. New issues
-   get these; an issue already made keeps its own.
-
-Typeset starts with an empty issue. *Paste Article* (⇧⌘V) or *New Article* adds the first story.
+to `main` is built on GitHub Actions.
 
 ### Your paper's own files: `Resources/Private`
 
