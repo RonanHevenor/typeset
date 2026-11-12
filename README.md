@@ -1,6 +1,6 @@
 # Typeset
 
-A Mac app that lays out a tabloid newspaper. Typeset removes a lot of the tedium associated with making a newspaper in InDesign. It simultaneously removes a lot of user control and opportunity for creativity.
+A Mac app that lays out a tabloid newspaper. Typeset removes a lot of the tedium associated with making a newspaper in InDesign. It simultaneously removes a lot of user control and opportunity for creativity. Do with that what you will. Typeset includes an option to export as an IDML (Indesign Markup Language) file, giving composing editors an opportunity to start the composing process in Typeset and do finishing touches in InDesign.
 
 Typeset was built for *The Polytechnic*, RPI's independent student newspaper. As a result, the app has some very strong opinions. All the settings to change those opinions are in code, so the look of the paper changes by editing `HouseStyle.swift`. The paper's name, website, staff and
 nameplate are settings and require no code changes.
