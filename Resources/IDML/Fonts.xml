@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Fonts xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="21.5">
+	<FontFamily Self="di3f" Name="Minion Pro">
+		<Font Self="di3fFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.015;PS 002.000;Core 1.0.38;makeotf.lib1.7.9032" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Installed" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Substituted" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Substituted" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Substituted" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di3fFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di9e" Name="Myriad Pro">
+		<Font Self="di9eFontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9eFontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9eFontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+		<Font Self="di9eFontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="diab" Name="Kozuka Mincho Pr6N">
+		<Font Self="diabFontnKozuka Mincho Pr6N R" FontFamily="Kozuka Mincho Pr6N" Name="Kozuka Mincho Pr6N R" PostScriptName="KozMinPr6N-Regular" Status="Installed" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="KozMinPr6N-Regular" FullNameNative="小塚明朝 Pr6N R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 7.001;hotconv 1.0.107;makeotfexe 2.5.65593" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di30e" Name="Raleway">
+		<Font Self="di30eFontnRaleway Thin" FontFamily="Raleway" Name="Raleway Thin" PostScriptName="RalewayRoman-Thin" Status="Installed" FontStyleName="Thin" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Thin" FullNameNative="Raleway Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-5469-62de19c3f67da52e2733d9e69323b921efaf88c4" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="100">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di30eFontnRaleway Thin Italic" FontFamily="Raleway" Name="Raleway Thin Italic" PostScriptName="Raleway-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Thin Italic" FullNameNative="Raleway Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X &quot;&quot;" TypekitID="TkD-37552-c26653d01ff303b4214ecaf288e6816124ad4aab" />
+		<Font Self="di30eFontnRaleway ExtraLight" FontFamily="Raleway" Name="Raleway ExtraLight" PostScriptName="RalewayRoman-ExtraLight" Status="Installed" FontStyleName="ExtraLight" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway ExtraLight" FullNameNative="Raleway ExtraLight" FontStyleNameNative="ExtraLight" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-18462-6d2d37ee5ea6756c449c9901795351c71e60cd4d" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="200">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di30eFontnRaleway ExtraLight Italic" FontFamily="Raleway" Name="Raleway ExtraLight Italic" PostScriptName="Raleway-ExtraLightItalic" Status="Substituted" FontStyleName="ExtraLight Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway ExtraLight Italic" FullNameNative="Raleway ExtraLight Italic" FontStyleNameNative="ExtraLight Italic" PlatformName="$ID/" Version="Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X &quot;&quot;" TypekitID="TkD-37553-9dbbefc1b7dd310f0d080d374d635dbad3d32995" />
+		<Font Self="di30eFontnRaleway Light" FontFamily="Raleway" Name="Raleway Light" PostScriptName="RalewayRoman-Light" Status="Installed" FontStyleName="Light" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Light" FullNameNative="Raleway Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-18459-f8b787f9d9c820f478d5f5afefe3d1fa4e193a6d" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="300">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di30eFontnRaleway Light Italic" FontFamily="Raleway" Name="Raleway Light Italic" PostScriptName="Raleway-LightItalic" Status="Substituted" FontStyleName="Light Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Light Italic" FullNameNative="Raleway Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X &quot;&quot;" TypekitID="TkD-37554-595e5bccadf1be345673ba501614d547c8d36e67" />
+		<Font Self="di30eFontnRaleway Regular" FontFamily="Raleway" Name="Raleway Regular" PostScriptName="Raleway" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway" FullNameNative="Raleway" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.001; ttfautohint (v0.8) -G 200 -r 50" TypekitID="TkD-18457-386d55b771af3076086de196769d8a2ca76dcf9c" />
+		<Font Self="di30eFontnRaleway Italic" FontFamily="Raleway" Name="Raleway Italic" PostScriptName="Raleway-Italic" Status="Substituted" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Italic" FullNameNative="Raleway Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X &quot;&quot;" TypekitID="TkD-37555-ffd0ead1a6010d1dfea325c21f23186fd9361040" />
+		<Font Self="di30eFontnRaleway Medium" FontFamily="Raleway" Name="Raleway Medium" PostScriptName="Raleway-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Medium" FullNameNative="Raleway Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-18458-a8eb5f963a09a16008301d7fe2e773f43d37e5da" />
+		<Font Self="di30eFontnRaleway Medium Italic" FontFamily="Raleway" Name="Raleway Medium Italic" PostScriptName="Raleway-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Medium Italic" FullNameNative="Raleway Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X &quot;&quot;" TypekitID="TkD-37556-a7df08489fc08a8b0fd11aba4cf4aa486debdcde" />
+		<Font Self="di30eFontnRaleway SemiBold" FontFamily="Raleway" Name="Raleway SemiBold" PostScriptName="Raleway-SemiBold" Status="Installed" FontStyleName="SemiBold" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway SemiBold" FullNameNative="Raleway SemiBold" FontStyleNameNative="SemiBold" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-22705-6b6a707ea568d863fba511674c78a05c5f817146" />
+		<Font Self="di30eFontnRaleway SemiBold Italic" FontFamily="Raleway" Name="Raleway SemiBold Italic" PostScriptName="Raleway-SemiBoldItalic" Status="Substituted" FontStyleName="SemiBold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway SemiBold Italic" FullNameNative="Raleway SemiBold Italic" FontStyleNameNative="SemiBold Italic" PlatformName="$ID/" Version="Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X &quot;&quot;" TypekitID="TkD-37557-d1c3e2bcedae815a61163edc8d65617d9401215e" />
+		<Font Self="di30eFontnRaleway Bold" FontFamily="Raleway" Name="Raleway Bold" PostScriptName="RalewayRoman-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Bold" FullNameNative="Raleway Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-18456-f29dd5e6906b302631106ffd57387ea16887b7c3" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="700">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di30eFontnRaleway Bold Italic" FontFamily="Raleway" Name="Raleway Bold Italic" PostScriptName="Raleway-BoldItalic" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Bold Italic" FullNameNative="Raleway Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X &quot;&quot;" TypekitID="TkD-37558-8fae7f6286cd66d01c6f7ed4271087bb6fd2ae41" />
+		<Font Self="di30eFontnRaleway ExtraBold" FontFamily="Raleway" Name="Raleway ExtraBold" PostScriptName="RalewayRoman-ExtraBold" Status="Installed" FontStyleName="ExtraBold" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway ExtraBold" FullNameNative="Raleway ExtraBold" FontStyleNameNative="ExtraBold" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-18460-a73c797c9bdf0b15862a8c95b68a5266b6c92d31" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="800">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di30eFontnRaleway ExtraBold Italic" FontFamily="Raleway" Name="Raleway ExtraBold Italic" PostScriptName="Raleway-ExtraBoldItalic" Status="Substituted" FontStyleName="ExtraBold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway ExtraBold Italic" FullNameNative="Raleway ExtraBold Italic" FontStyleNameNative="ExtraBold Italic" PlatformName="$ID/" Version="Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X &quot;&quot;" TypekitID="TkD-37559-5e6bbf268ab30b704cd070121b926515a2e36473" />
+		<Font Self="di30eFontnRaleway Black" FontFamily="Raleway" Name="Raleway Black" PostScriptName="RalewayRoman-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Black" FullNameNative="Raleway Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-18461-e0c57055b6a6b266f7d76271f76376d896ad7fb2" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="900">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di30eFontnRaleway Black Italic" FontFamily="Raleway" Name="Raleway Black Italic" PostScriptName="Raleway-BlackItalic" Status="Substituted" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Black Italic" FullNameNative="Raleway Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X &quot;&quot;" TypekitID="TkD-37560-0594afb828d56924452f47c66ca7783ccc179a01" />
+	</FontFamily>
+	<FontFamily Self="di315" Name="Utopia Std">
+		<Font Self="di315FontnUtopia Std Regular" FontFamily="Utopia Std" Name="Utopia Std Regular" PostScriptName="UtopiaStd-Regular" Status="Substituted" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std" FullNameNative="Utopia Std" FontStyleNameNative="Regular" PlatformName="$ID/" Version="OTF 1.008;PS 001.000;Core 1.0.35;makeotf.lib1.5.4492" TypekitID="$ID/" />
+		<Font Self="di315FontnUtopia Std Caption Italic" FontFamily="Utopia Std" Name="Utopia Std Caption Italic" PostScriptName="UtopiaStd-CaptIt" Status="Installed" FontStyleName="Caption Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std Caption Italic" FullNameNative="Utopia Std Caption Italic" FontStyleNameNative="Caption Italic" PlatformName="$ID/" Version="Version 2.096;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150" TypekitID="TkD-18222-a6c3e93af3635dc7ba09f00138440b903e9090f2" />
+		<Font Self="di315FontnUtopia Std Subhead Italic" FontFamily="Utopia Std" Name="Utopia Std Subhead Italic" PostScriptName="UtopiaStd-SubhIt" Status="Substituted" FontStyleName="Subhead Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std Subhead Italic" FullNameNative="Utopia Std Subhead Italic" FontStyleNameNative="Subhead Italic" PlatformName="$ID/" Version="Version 2.096;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150" TypekitID="TkD-18241-6c4d52d737bf24a1a554bb02413e41e39a233b10" />
+		<Font Self="di315FontnUtopia Std Display Italic" FontFamily="Utopia Std" Name="Utopia Std Display Italic" PostScriptName="UtopiaStd-DispIt" Status="Substituted" FontStyleName="Display Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std Display Italic" FullNameNative="Utopia Std Display Italic" FontStyleNameNative="Display Italic" PlatformName="$ID/" Version="Version 2.096;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150" TypekitID="TkD-18306-016184c198ae3080c0e8f998d1ce059bc81ef022" />
+		<Font Self="di315FontnUtopia Std Semibold Caption" FontFamily="Utopia Std" Name="Utopia Std Semibold Caption" PostScriptName="UtopiaStd-SemiboldCapt" Status="Substituted" FontStyleName="Semibold Caption" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std Semibold Caption" FullNameNative="Utopia Std Semibold Caption" FontStyleNameNative="Semibold Caption" PlatformName="$ID/" Version="Version 2.096;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150" TypekitID="TkD-18224-207dfc8389b4f4962c3936614ef9aaf66beeebb4" />
+		<Font Self="di315FontnUtopia Std Semibold" FontFamily="Utopia Std" Name="Utopia Std Semibold" PostScriptName="UtopiaStd-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std Semibold" FullNameNative="Utopia Std Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.098;PS 2.000;hotconv 1.0.68;makeotf.lib2.5.35818" TypekitID="TkD-13382-5a5564686257561b7af8200cc1ff0422119ff4f5" />
+		<Font Self="di315FontnUtopia Std Semibold Subhead" FontFamily="Utopia Std" Name="Utopia Std Semibold Subhead" PostScriptName="UtopiaStd-SemiboldSubh" Status="Installed" FontStyleName="Semibold Subhead" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std Semibold Subhead" FullNameNative="Utopia Std Semibold Subhead" FontStyleNameNative="Semibold Subhead" PlatformName="$ID/" Version="Version 2.096;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150" TypekitID="TkD-18243-48fb6933b9bb4a43ab69c4c664e8f4e4e7f2d64e" />
+		<Font Self="di315FontnUtopia Std Semibold Display Italic" FontFamily="Utopia Std" Name="Utopia Std Semibold Display Italic" PostScriptName="UtopiaStd-SemiboldDispIt" Status="Substituted" FontStyleName="Semibold Display Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std Semibold Display Italic" FullNameNative="Utopia Std Semibold Display Italic" FontStyleNameNative="Semibold Display Italic" PlatformName="$ID/" Version="Version 2.096;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150" TypekitID="TkD-18309-f2c3480aade641f773bb2a2fe982f0f3d2d89550" />
+		<Font Self="di315FontnUtopia Std Bold Italic" FontFamily="Utopia Std" Name="Utopia Std Bold Italic" PostScriptName="UtopiaStd-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std Bold Italic" FullNameNative="Utopia Std Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.098;PS 2.000;hotconv 1.0.68;makeotf.lib2.5.35818" TypekitID="TkD-13381-659a438ab2c8bd6de267035c492abcdf9e0ec4ea" />
+		<Font Self="di315FontnUtopia Std Black Headline" FontFamily="Utopia Std" Name="Utopia Std Black Headline" PostScriptName="UtopiaStd-BlackHeadline" Status="Substituted" FontStyleName="Black Headline" FontType="OpenTypeCFF" WritingScript="0" FullName="Utopia Std Black Headline" FullNameNative="Utopia Std Black Headline" FontStyleNameNative="Black Headline" PlatformName="$ID/" Version="Version 2.096;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.29150" TypekitID="TkD-18219-4fc737a3d9d411ad9650033322d2a66857a98511" />
+	</FontFamily>
+	<FontFamily Self="di3dd" Name="UtopiaStd-BoldSubhIt">
+		<Font Self="di3ddFontnUtopiaStd-BoldSubhIt" FontFamily="UtopiaStd-BoldSubhIt" Name="UtopiaStd-BoldSubhIt Regular" PostScriptName="UtopiaStd-BoldSubhIt" Status="Substituted" FontStyleName="" FontType="Unknown" WritingScript="-1" FullName="UtopiaStd-BoldSubhIt" FullNameNative="UtopiaStd-BoldSubhIt" FontStyleNameNative="$ID/" PlatformName="$ID/" Version="" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di4dfe" Name="Raleway">
+		<Font Self="di4dfeFontnRaleway Thin" FontFamily="Raleway" Name="Raleway Thin" PostScriptName="RalewayRoman-Thin" Status="NotAvailable" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Raleway Thin" FullNameNative="Raleway Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="100">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di4dfeFontnRaleway ExtraLight" FontFamily="Raleway" Name="Raleway ExtraLight" PostScriptName="RalewayRoman-ExtraLight" Status="NotAvailable" FontStyleName="ExtraLight" FontType="TrueType" WritingScript="0" FullName="Raleway ExtraLight" FullNameNative="Raleway ExtraLight" FontStyleNameNative="ExtraLight" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="200">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di4dfeFontnRaleway Light" FontFamily="Raleway" Name="Raleway Light" PostScriptName="RalewayRoman-Light" Status="NotAvailable" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Raleway Light" FullNameNative="Raleway Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="300">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di4dfeFontnRaleway Regular" FontFamily="Raleway" Name="Raleway Regular" PostScriptName="Raleway" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway" FullNameNative="Raleway" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.001; ttfautohint (v0.8) -G 200 -r 50" TypekitID="TkD-18457-2de64fc3f04f4b87286a04ea3eef950ad3b8ac63" />
+		<Font Self="di4dfeFontnRaleway Medium" FontFamily="Raleway" Name="Raleway Medium" PostScriptName="Raleway-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Medium" FullNameNative="Raleway Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-18458-b5981ab7a9eb13ae7c8c1a1aec15151e8744155c" />
+		<Font Self="di4dfeFontnRaleway SemiBold" FontFamily="Raleway" Name="Raleway SemiBold" PostScriptName="Raleway-SemiBold" Status="Installed" FontStyleName="SemiBold" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway SemiBold" FullNameNative="Raleway SemiBold" FontStyleNameNative="SemiBold" PlatformName="$ID/" Version="Version 4.026" TypekitID="TkD-22705-643c8e79ce46ab564d9f98a16605eb3cde10c997" />
+		<Font Self="di4dfeFontnRaleway Bold" FontFamily="Raleway" Name="Raleway Bold" PostScriptName="RalewayRoman-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Bold" FullNameNative="Raleway Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="700">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di4dfeFontnRaleway ExtraBold" FontFamily="Raleway" Name="Raleway ExtraBold" PostScriptName="RalewayRoman-ExtraBold" Status="Installed" FontStyleName="ExtraBold" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway ExtraBold" FullNameNative="Raleway ExtraBold" FontStyleNameNative="ExtraBold" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="800">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di4dfeFontnRaleway Black" FontFamily="Raleway" Name="Raleway Black" PostScriptName="RalewayRoman-Black" Status="Installed" FontStyleName="Black" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Black" FullNameNative="Raleway Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" NumDesignAxes="1" DesignAxesName="Weight" DesignAxesValues="900">
+			<Properties>
+				<DesignAxesRange type="list">
+					<ListItem type="list">
+						<ListItem type="double">100</ListItem>
+						<ListItem type="double">900</ListItem>
+					</ListItem>
+				</DesignAxesRange>
+			</Properties>
+		</Font>
+		<Font Self="di4dfeFontnRaleway Thin Italic" FontFamily="Raleway" Name="Raleway Thin Italic" PostScriptName="Raleway-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Thin Italic" FullNameNative="Raleway Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" />
+		<Font Self="di4dfeFontnRaleway ExtraLight Italic" FontFamily="Raleway" Name="Raleway ExtraLight Italic" PostScriptName="Raleway-ExtraLightItalic" Status="Substituted" FontStyleName="ExtraLight Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway ExtraLight Italic" FullNameNative="Raleway ExtraLight Italic" FontStyleNameNative="ExtraLight Italic" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" />
+		<Font Self="di4dfeFontnRaleway Light Italic" FontFamily="Raleway" Name="Raleway Light Italic" PostScriptName="Raleway-LightItalic" Status="Substituted" FontStyleName="Light Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Light Italic" FullNameNative="Raleway Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" />
+		<Font Self="di4dfeFontnRaleway Italic" FontFamily="Raleway" Name="Raleway Italic" PostScriptName="Raleway-Italic" Status="Substituted" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Italic" FullNameNative="Raleway Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" />
+		<Font Self="di4dfeFontnRaleway Medium Italic" FontFamily="Raleway" Name="Raleway Medium Italic" PostScriptName="Raleway-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Medium Italic" FullNameNative="Raleway Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" />
+		<Font Self="di4dfeFontnRaleway SemiBold Italic" FontFamily="Raleway" Name="Raleway SemiBold Italic" PostScriptName="Raleway-SemiBoldItalic" Status="Substituted" FontStyleName="SemiBold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway SemiBold Italic" FullNameNative="Raleway SemiBold Italic" FontStyleNameNative="SemiBold Italic" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" />
+		<Font Self="di4dfeFontnRaleway Bold Italic" FontFamily="Raleway" Name="Raleway Bold Italic" PostScriptName="Raleway-BoldItalic" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Bold Italic" FullNameNative="Raleway Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" />
+		<Font Self="di4dfeFontnRaleway ExtraBold Italic" FontFamily="Raleway" Name="Raleway ExtraBold Italic" PostScriptName="Raleway-ExtraBoldItalic" Status="Substituted" FontStyleName="ExtraBold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway ExtraBold Italic" FullNameNative="Raleway ExtraBold Italic" FontStyleNameNative="ExtraBold Italic" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" />
+		<Font Self="di4dfeFontnRaleway Black Italic" FontFamily="Raleway" Name="Raleway Black Italic" PostScriptName="Raleway-BlackItalic" Status="Substituted" FontStyleName="Black Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Black Italic" FullNameNative="Raleway Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 4.026" TypekitID="$ID/" />
+		<Font Self="di4dfeFontnRaleway Heavy" FontFamily="Raleway" Name="Raleway Heavy" PostScriptName="Raleway-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="OpenTypeTT" WritingScript="0" FullName="Raleway Heavy" FullNameNative="Raleway Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.001; ttfautohint (v0.8) -G 200 -r 50" TypekitID="TkD-37551-230447a6bd6819e8652dacc46abb706934bbf846" />
+	</FontFamily>
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="uaa" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uac" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uad" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uae" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pr6N</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="uaf" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ub0" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+</idPkg:Fonts>

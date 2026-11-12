@@ -1,0 +1,50 @@
+name: Build
+
+# Builds Typeset on every push to main (and on pull requests into it), and keeps the app as a disk image
+# you can download from the run's page. It's the public build: no fonts or paper files (Resources/Private).
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: macos-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use the newest Xcode on the runner
+        run: |
+          XCODE=$(ls -d /Applications/Xcode*.app | sort -V | tail -1)
+          sudo xcode-select -s "$XCODE/Contents/Developer"
+          xcodebuild -version
+          swift --version
+
+      - name: Build Typeset.app
+        run: ./build.sh --no-open --public
+
+      - name: Check the app runs
+        run: |
+          mkdir -p "$RUNNER_TEMP/data"
+          GALLEY_DATA_DIR="$RUNNER_TEMP/data" build/Typeset.app/Contents/MacOS/Typeset --make-components "$RUNNER_TEMP/components"
+          test -s "$RUNNER_TEMP/components/Header.typesetcomponent"
+
+      - name: Package a disk image
+        run: tools/make_dmg.sh build/Typeset.dmg
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Typeset-${{ github.sha }}
+          path: build/Typeset.dmg
+          if-no-files-found: error
+          retention-days: 30
