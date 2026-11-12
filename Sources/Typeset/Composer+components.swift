@@ -104,10 +104,13 @@ extension Composer {
     /// Drawn with its container's origin at the frame's corner.
     func setHeadline(_ f: Frame, of rc: ResolvedComponent, _ text: NSAttributedString) -> (storage: NSTextStorage, manager: NSLayoutManager, container: FlowContainer, used: CGFloat)? {
         let r = rc.rect(f.box)
-        let display = rc.version.frames.filter { [.image, .ad, .pullQuote].contains($0.type) }.map { Self.wrap(rc.rect($0.box)) }
-            .map { CGRect(x: $0.minX, y: $0.minY + 8 - Self.displayClearance, width: $0.width,
-                          height: max(1, $0.height - (Self.clearAbovePicture - Self.displayClearance) - (Self.clearBelowPicture - Self.displayClearance))) }
-            .filter { $0.intersects(r) }
+        // (in steps: one chain of these is more than some compilers will type-check in time)
+        let pictureTypes: [FrameType] = [.image, .ad, .pullQuote]
+        let wraps: [CGRect] = rc.version.frames.filter { pictureTypes.contains($0.type) }.map { Self.wrap(rc.rect($0.box)) }
+        let trim: CGFloat = (Self.clearAbovePicture - Self.displayClearance) + (Self.clearBelowPicture - Self.displayClearance)
+        let display: [CGRect] = wraps.map { (w: CGRect) -> CGRect in
+            CGRect(x: w.minX, y: w.minY + 8 - Self.displayClearance, width: w.width, height: max(1, w.height - trim))
+        }.filter { $0.intersects(r) }
         // the frame's box holds the lines' ink (what the block used); the last line's fragment runs its leading below it
         let font = text.length > 0 ? text.attribute(.font, at: 0, effectiveRange: nil) as? NSFont : nil
         return setHeadline(text, frame: CGRect(x: r.minX, y: r.minY, width: r.width, height: r.height + ceil(font?.leading ?? 0) + 1), avoid: display)

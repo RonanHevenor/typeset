@@ -1548,9 +1548,9 @@ final class Composer {
         let articles = Dictionary(issue.articles.map { ($0.id, $0) }, uniquingKeysWith: { a, _ in a })
         extras = Dictionary(issue.extras.map { ($0.id, $0) }, uniquingKeysWith: { a, _ in a })
         // body and whole-story frames in placed components set like story blocks, in the component's columns
-        let componentBlocks = layout.pages.map { componentBlocks(on: $0, issue: issue, pageColumns: layout.columns, articles: articles) }
-        let inComponent = Dictionary(componentBlocks.flatMap { $0 }.map { ($0.block.id, $0) }, uniquingKeysWith: { a, _ in a })
-        let orders = layout.pages.enumerated().map { PageLayout.readingOrder($1.stories + componentBlocks[$0].map(\.block)) }
+        let placedBlocks = layout.pages.map { self.componentBlocks(on: $0, issue: issue, pageColumns: layout.columns, articles: articles) }
+        let inComponent = Dictionary(placedBlocks.flatMap { $0 }.map { ($0.block.id, $0) }, uniquingKeysWith: { a, _ in a })
+        let orders = layout.pages.enumerated().map { i, page in PageLayout.readingOrder(page.stories + placedBlocks[i].map { $0.block }) }
         var appearances: [Article.ID: [(page: Int, block: StoryBlock.ID)]] = [:]
         for i in layout.pages.indices {
             for b in orders[i] { appearances[b.article, default: []].append((i + 1, b.id)) }
@@ -1648,7 +1648,8 @@ final class Composer {
             composedPages += 1
             cp.incoming = cursors
             var desks: [String] = []
-            for id in blocks.map(\.article) + componentStories(on: page, issue: issue, pageColumns: layout.columns) {
+            let ids: [Article.ID] = blocks.map { $0.article } + componentStories(on: page, issue: issue, pageColumns: layout.columns)
+            for id in ids {
                 if let d = articles[id]?.desk.rawValue, !desks.contains(d) { desks.append(d) }
             }
             // the folio names the desk when the page is one desk's; a mixed page carries just its number
